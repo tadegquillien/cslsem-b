@@ -1,0 +1,22 @@
+.a {
+    display: flex;
+    flex-direction: row;
+}
+
+.b {
+    display: flex
+}
+
+.trainingInstructionsContainer{
+    /* background-color: blueviolet; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap
+}
+
+.trainingInstructionsContained{
+    display: flex;
+    margin-left: 4vw;
+    margin-right: 4vw
+    /* background-color: chartreuse; */
+}
